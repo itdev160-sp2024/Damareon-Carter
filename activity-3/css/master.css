@@ -1,0 +1,36 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    color: gray;
+    background-color: black;
+}
+
+h1
+{
+    background-color: #202020;
+    text-align: center;
+}
+
+img
+{
+    width: 100px;
+    height: 100px;
+    text-align: left;
+}
+
+figcaption span
+{
+    font-style: italic;
+}
+
+#description
+{
+    margin: 20px 0 20px 0;
+}
+
+.review
+{
+    padding: 10px;
+    background-color: #303030;
+    margin: 20px 0 20px 0;
+}
