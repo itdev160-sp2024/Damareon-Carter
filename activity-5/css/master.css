@@ -1,0 +1,30 @@
+body
+{
+    background-color: #202020;
+    font-family: 'Open Sans', serif;
+    color: #a0a0a0;
+    margin: auto 30px;
+}
+
+#credits
+{
+    font-style: italic;
+    font-size: .75em;
+    margin-bottom: 20px;
+}
+
+#header-image
+{
+    width: 100%;
+}
+
+.package-container
+{
+    background-color: #272727;
+    padding: 5px;
+}
+
+.package-container section p
+{
+    font-style: italic;
+}
