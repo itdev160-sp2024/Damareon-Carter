@@ -1,0 +1,38 @@
+body
+{
+    background-color: #202020;
+    font-family: 'Open Sans', serif;
+    color: #a0a0a0;
+    margin: 0 auto;
+}
+
+ul
+{
+    margin: 0;
+}
+
+li
+{
+    padding: 5px;
+}
+
+#todo-list-container
+{
+    margin-top: 20px;
+}
+
+#active-list li
+{
+    color: red;
+}
+
+#completed-list
+{
+    list-style-type: none;
+}
+
+#completed-list li
+{
+    color: lime;
+    text-decoration: line-through;
+}
