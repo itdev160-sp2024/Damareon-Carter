@@ -1,0 +1,24 @@
+body
+{
+    background-color: #202020;
+    font-family: 'Open Sans', serif;
+    color: #a0a0a0;
+    margin: 0 auto;
+}
+
+.messages
+{
+    margin-bottom: 20px;
+}
+
+.out-message
+{
+    padding: 5px;
+    background-color: lightblue;
+}
+
+.in-message
+{
+    padding: 5px;
+    background-color: lightgreen;
+}
